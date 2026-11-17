@@ -1,10 +1,10 @@
 # Token Radar
 
-[![Token Launch Radar](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
-[![Rank](https://make.fun/badge/token-radar-01/myruldev/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01)
-[![Reward](https://make.fun/badge/token-radar-01/myruldev/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01)
+[![Token Launch Radar](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?ref=kc2xf2b1)
+[![Rank](https://make.fun/badge/token-radar-01/myruldev/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01?ref=kc2xf2b1)
+[![Reward](https://make.fun/badge/token-radar-01/myruldev/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?ref=kc2xf2b1)
 
-Pre-token protocols, ranked by implied value — an entry for the [make.fun](https://make.fun) Token Launch Radar bounty.
+Pre-token protocols, ranked by implied value — an entry for the [make.fun](https://make.fun/r/kc2xf2b1) Token Launch Radar bounty.
 
 ## What it does
 
